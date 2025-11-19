@@ -51,9 +51,9 @@ It's meant to work well on dark windows, with **Mica** or **MicaAlt** backdrops,
 ## Theme Status
 | Component                         | Version   | Status              | Notes                            |
 | --------------------------------- | --------- | ------------------- | -------------------------------- |
-| **Taskbar**                       | **0.9.0** | ✅ Stable            | Awaiting Windhawk review for 1.0 |
+| **Taskbar**                       | **0.9.0** | ✅ Stable           | Awaiting Windhawk review for 1.0 |
 | **Start Menu**                    | **0.1.0** | 🔧 Work in Progress | Messy code, missing screenshots  |
-| **Notification / Control Center** | **0.1.0** | 🔧 Work in Progress | Code cleanup in progress         |
+| **Notification / Control Center** | **0.1.0** | 🔧 Work in Progress | Messy code, missing styles       |
 | **File Explorer**                 | **0.1.0** | ⚠️ Heavy WIP        | Messy code, multiple issues      |
 
 ---
