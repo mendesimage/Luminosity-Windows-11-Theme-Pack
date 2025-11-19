@@ -5,6 +5,8 @@ Early access to the Luminosity updates. They may contain issues and messy code. 
 **This is a Beta release.**
 While the themes have been tested, they are not final. Expect issues, unfinished features, and visual inconsistencies. Feedback is appreciated!
 
+Theme JSON is up to date, but README information likely isn't!
+
 ## Installation Guide
 
 <details>
