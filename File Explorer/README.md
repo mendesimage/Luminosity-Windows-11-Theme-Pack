@@ -2,16 +2,12 @@
 
 **Author**: [mendes.image](https://github.com/mendesimage)
 
-![Demonstration](nc.png)
+![Demonstration](fe.png)
 
 ## Intro
 **Luminosity** is based on native Acrylic, using the maximum **TintLuminosityOpacity** value as its backdrop.
 
 It's meant to be used with **Mica** or **MicaAlt** backdrops, with or without the **Translucent Windows** mod.
-
----
-
-![MediaControlCenter](mediacontrolcenter.png)
 
 ---
 
@@ -181,4 +177,5 @@ The theme styles can also be imported manually. To do that, follow these steps:
   "controlStyles[35].styles[0]": "BackgroundTransition:=<BrushTransition Duration=\"0:0:0.100\" />"
 }
 ```
+
 </details>
