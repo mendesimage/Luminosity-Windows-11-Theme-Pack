@@ -53,7 +53,7 @@ It's meant to work well on dark windows, with **Mica** or **MicaAlt** backdrops,
 ## Theme Status
 | Component                         | Version   | Status              | Notes                            |
 | --------------------------------- | --------- | ------------------- | -------------------------------- |
-| **Taskbar**                       | **0.9.0** | ✅ Stable           | Awaiting Windhawk review for 1.0 |
+| **Taskbar**                       | **0.10.0** | 🔍 Under Testing   | N/A |
 | **Start Menu**                    | **0.1.0** | 🔧 Work in Progress | Messy code, missing screenshots  |
 | **Notification / Control Center** | **0.1.0** | 🔧 Work in Progress | Messy code, missing styles       |
 | **File Explorer**                 | **0.1.0** | ⚠️ Heavy WIP        | Messy code, multiple issues      |
@@ -73,7 +73,7 @@ This changelog follows **[Keep a Changelog](https://keepachangelog.com/en/1.0.0/
 # Planned
 
 ### Taskbar
-- Attempt to fix the unmatching separation between Windows and Search icon. (Nobody may not even notice)
+- Nothing, for now.
 
 ### Start Menu
 - Attempt to add more customization to Start Menu's App list and Search Menu.
@@ -91,16 +91,17 @@ This changelog follows **[Keep a Changelog](https://keepachangelog.com/en/1.0.0/
 
 ## **Taskbar**
 
-### **[0.9.0] – Current**
+### **[0.10.0] – Current**
 
-**Status:** Stable (Awaiting Windhawk review)
+**Status:** Under Testing
+
 **Added**
 
-- Custom hovering and Menu animations thanks to [SandTechStuff's Fluid Start Menu theme](https://github.com/ramensoftware/windows-11-start-menu-styling-guide/tree/main/Themes/Fluid).
+- Added styles to Virtual Desktop hover flyout
 
 **Fixed**
 
-- Animation speeds.
+- Uncentralized text
 
 ---
 
@@ -109,6 +110,7 @@ This changelog follows **[Keep a Changelog](https://keepachangelog.com/en/1.0.0/
 ### **[0.1.0] – Current**
 
 **Status:** Work in Progress
+
 **Added**
 
 - Moved the main grid up to remove Search Box and typing UI. Only hiding the Search UI elements still keeps the text navigation beam.
@@ -118,6 +120,7 @@ This changelog follows **[Keep a Changelog](https://keepachangelog.com/en/1.0.0/
 
 **Known Issues**
 
+* Visual issues in lower screen resolutions.
 * Messy code.
 * Missing screenshots.
 * Some UI elements not themed yet
@@ -129,12 +132,14 @@ This changelog follows **[Keep a Changelog](https://keepachangelog.com/en/1.0.0/
 ### **[0.1.0] – Current**
 
 **Status:** Work in Progress
+
 **Added**
 
 * Hovering an Menu animations
 
 **Known Issues**
 
+* Visual issues in lower screen resolutions.
 * Messy code.
 * Some UI elements not themed yet.
 
@@ -145,6 +150,7 @@ This changelog follows **[Keep a Changelog](https://keepachangelog.com/en/1.0.0/
 ### **[0.1.0] – Current**
 
 **Status:** Heavy Work in Progress
+
 **Added**
 
 * Many styles.
@@ -158,4 +164,16 @@ This changelog follows **[Keep a Changelog](https://keepachangelog.com/en/1.0.0/
 
 # Older Versions
 
-(N/A — this is the first public beta release of the repository.)
+## **Taskbar**
+
+### **[0.9.0]**
+
+**Status:** Stable
+
+**Added**
+
+- Custom hovering and Menu animations thanks to [SandTechStuff's Fluid Start Menu theme](https://github.com/ramensoftware/windows-11-start-menu-styling-guide/tree/main/Themes/Fluid).
+
+**Fixed**
+
+- Animation speeds.
